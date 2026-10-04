@@ -1,6 +1,6 @@
 ---
 name: workflow-orchestration
-description: Workflow rules for non-trivial tasks - plan first, use subagents, verify before done, capture lessons after corrections. Use when starting any multi-step task, bug fix, or implementation, or when the user says "work by the rules" / "по правилам".
+description: Apply automatically to ANY engineering task - writing or changing code, bug fixes, CI failures, refactoring, architecture, infrastructure, technical documentation or design. Plan first, use subagents, verify before done, capture lessons after corrections.
 ---
 
 ## Workflow Orchestration
